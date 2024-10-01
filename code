@@ -1,6 +1,3 @@
-print("Dieser Code ist jetzt super")
-print("Servus")
-
 # Hundeklasse
 class Dog:
     # Konstruktor zum Erstellen der Objekte
@@ -21,50 +18,3 @@ nachbar_hund = Dog("Schnuffi", "Pudel")
 # Methoden aufrufen
 mein_hund.greet(10)
 nachbar_hund.greet(3)
-
-
-#jo hoi
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-print("Bisch deppat oaida do sain jo brutal viele emails kemmen!!!!!!!!!!!!!!!")
